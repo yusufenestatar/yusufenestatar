@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yusufenestatar@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/yusufenestatar/CV](https://github.com/yusufenestatar/CV)
+- 📄 Know about my experiences [https://github.com/yusufenestatar/CV/archive/refs/heads/main.zip](https://github.com/yusufenestatar/CV/archive/refs/heads/main.zip)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
