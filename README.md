@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHXO0SVcBmttQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720434416369?e=1729728000&v=beta&t=qNUSc_cafxONjdaT7NWphJ8Hmia_jRah6E_CKfluwOg)
 <h1 align="center">Hi 👋, I'm Yusuf Enes TATAR</h1>
 <h3 align="left">I am a .NET developer and dedicated to continuously improving myself in the software world. </h3>
 
