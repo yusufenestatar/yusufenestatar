@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf Enes TATAR</h1>
 <h3 align="left">I am a .NET developer and dedicated to continuously improving myself in the software world. </h3>
 
-- 🔭 I’m currently working on **Universe QMS**
+- 👨🏻‍💻 Founder and Engineer **Artes Solution**
 
 - 💬 Ask me about **.NET Core**
 
-- 📫 How to reach me **yusufenestatar@hotmail.com**
+- 📫 How to reach me **yusuftatar@artessolution.com**
 
 - 📄 Know about my experiences [https://github.com/yusufenestatar/CV/archive/refs/heads/main.zip](https://github.com/yusufenestatar/CV/archive/refs/heads/main.zip)
 
